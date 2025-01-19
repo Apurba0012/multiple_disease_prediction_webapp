@@ -91,7 +91,7 @@ Here are some screenshots of the application:
 ![Home Page](image/home.png)
 
 ### Add Item Screen
-
+![Add Item Page](image/page4.png)
 ![Add Item Page](image/page1.png)
 ![Add Item Page](image/page2.png)
 ![Add Item Page](image/page3.png)
